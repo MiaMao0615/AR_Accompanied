@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="excercise" size="1.000000 0.669935" />
+    <ImageTarget name="Desk" size="1.000000 1.000000" />
+    <ImageTarget name="LivingRoom" size="1.000000 0.507812" />
+    <ImageTarget name="BedRoom" size="1.000000 0.535181" />
+    <ImageTarget name="StudyingRoom" size="1.000000 0.519507" />
+  </Tracking>
+</QCARConfig>
